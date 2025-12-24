@@ -65,5 +65,15 @@ When encrypting a file for another user:
     ```
 3.  Follow the on-screen menu to register, login, and secure your files.
 
----
-*Developed by Abdul Hayy Khan.*
+
+## 👨‍💻 Author
+
+[*Abdul Hayy Khan*](https://www.linkedin.com/in/abdul-hayy-khan/) 
+
+📫 abdulhayykhan.1@gmail.com
+
+
+## 📌 License
+
+This project is open-source and available for educational use under the **MIT License**.
+
