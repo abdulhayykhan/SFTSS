@@ -1,0 +1,9 @@
+[2025-11-27 21:37:00] User registered: user
+[2025-11-27 21:37:10] Login: user
+[2025-11-27 21:37:42] User registered: abdullah
+[2025-11-27 21:38:47] User registered: testuser
+[2025-11-27 21:38:56] Login: testuser
+[2025-11-27 21:39:13] testuser encrypted message.txt for abdullah
+[2025-11-27 21:39:43] Login: abdullah
+[2025-11-27 21:41:44] Login: abdullah
+[2025-11-27 21:41:55] abdullah decrypted message.txt.enc
